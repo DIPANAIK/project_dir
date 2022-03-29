@@ -1,0 +1,8 @@
+My first project
+What exactly GIT is?
+GIT is aversion control system for traking the changes in computer files
+1. Distrubuted version control
+2. Coordinates work between multiple developers
+3. can recognize which changes are made when and by whom 
+4. Revert back any time
+5. Local and remote repository

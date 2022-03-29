@@ -1,0 +1,6 @@
+Concepts of GIT
+1. Keeps track of code history.
+2. Take "sanpshots" of our files
+3. We can ddecide when to take snapshot by making a "commit"
+4. We can visit any sanpshot at any time
+5. We can stage file before committing
