@@ -1,4 +1,5 @@
 # project_dir
 my first project 
-to check wheather a person is hungry or not
-print("I'm hungry")
+what exactly GIT is?
+GIT is version control system for tracking changes in computer files.
+We can upadate a file from our local computer to remote server
